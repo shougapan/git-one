@@ -1,0 +1,29 @@
+[33mcommit 5eeadc0bafde43925a187bb6b3675ebf2e34bf7a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: iamdavid <david.rowlands@live.com>
+Date:   Sat Apr 11 17:44:23 2020 +0900
+
+    added body and heading to the index file
+
+[33mcommit 8bc5a4872ce47df4fbd6dd993d69e52f6cb6ff8e[m
+Author: iamdavid <david.rowlands@live.com>
+Date:   Sat Apr 11 17:42:42 2020 +0900
+
+    added a feature js fiile
+
+[33mcommit 238139399c394836251d532675b5a41f8a3d0300[m
+Author: iamdavid <david.rowlands@live.com>
+Date:   Sat Apr 11 17:18:29 2020 +0900
+
+    changed body color
+
+[33mcommit 628527b75334b3c8db2c294af912dd349d92ccf7[m
+Author: iamdavid <david.rowlands@live.com>
+Date:   Sat Apr 11 17:12:22 2020 +0900
+
+    Added a title to the index file
+
+[33mcommit a709aedf1f8417a37bfe6a0153c938e838ffeb8c[m
+Author: iamdavid <david.rowlands@live.com>
+Date:   Sat Apr 11 15:40:59 2020 +0900
+
+    added index and style files
